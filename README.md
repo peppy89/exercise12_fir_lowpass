@@ -18,7 +18,6 @@ Magnitude Responses
 
 The comparison below illustrates how increasing M sharpens the transition band.
 
-Discussion
 
 Increasing the filter order M makes the transition band narrower and improves the selectivity of the low-pass filter.
 
